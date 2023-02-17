@@ -12,4 +12,4 @@ do
   echo "$rec_column5"
   echo "$rec_column7"
 #Tail to skip the header in csv file
-done < <(tail -n +2 data.csv)
+done < <(tail -n +2 Data.csv)
