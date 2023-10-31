@@ -41,7 +41,3 @@ SCALE (Jiang et al., 2017).
 Gprofiler is used for getting GeneOntologies and Metascape for cell type profiling in various category of  genes
 
 
-
-Finally they are summerised using revigo’s semantic similarities with a threshold of 0.15 for redundancy reduction using lin algorithm
-
-
