@@ -1,4 +1,4 @@
-# Autosomal Random Monoallelic Expressions and its association with Transcriptionl bursting during reprogramming.
+# Autosomal Random Monoallelic Expressions and its association with Transcriptiona bursting during reprogramming.
 
 Data is downloaded from GSE153847 using the download list from SRA(672files)
 
